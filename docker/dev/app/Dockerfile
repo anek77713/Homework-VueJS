@@ -7,4 +7,4 @@ WORKDIR "/var/www"
 
 EXPOSE 8080
 
-CMD sleep 100000000
+CMD yarn serve
